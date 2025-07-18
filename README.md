@@ -26,7 +26,7 @@
 
 ## 📈 Recent Projects
 - **📊 London Property & Crime Analyst Dashboard**  
-  Combining crime statistics and property prices across boroughs using Python, SQL, and Tableau  
+  Analyzing the correlation between London housing prices and crime rates using Python, SQL, and Tableau  
   🔗 [View on Tableau](https://public.tableau.com/app/profile/jun.chung.wu/vizzes) | [GitHub Repo](https://github.com/kerrywu0705/london-housing-crime-analysis)
 
 ---
