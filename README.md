@@ -36,7 +36,4 @@ I'm always open to chat about data, content creation, or career pivots!
 📧 kerry.kerrywu0705@gmail.com
 🌐 [LinkedIn](www.linkedin.com/in/jun-chung-wu) | [LeetCode](https://leetcode.com/u/catgarlic0430/)
 
----
-
-> *“Cut videos ✂️, crunch data 📊, click heads in LoL 🎮, love cats 🐱”*
 
